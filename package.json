@@ -1,0 +1,27 @@
+{
+  "name": "@bash-commands/sleep",
+  "version": "1.0.0",
+  "description": "sleep command ported to NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "patch": "npm version patch",
+    "minor": "npm version minor",
+    "major": "npm version major",
+    "pub": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeitounCorp/bash-commands-sleep.git"
+  },
+  "keywords": [
+    "sleep",
+    "bash",
+    "nodejs"
+  ],
+  "author": "ZeitounCorp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeitounCorp/bash-commands-sleep/issues"
+  },
+  "homepage": "https://github.com/ZeitounCorp/bash-commands-sleep#readme"
+}
